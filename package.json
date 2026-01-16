@@ -29,6 +29,6 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "joshbwlng-foobar": "^1.0.0"
+    "joshbwlng-foobar": "^115.0.0"
   }
 }
